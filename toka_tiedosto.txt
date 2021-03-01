@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 tähän uutta tietoa
+Terveisiä paikalliselta tietokoneelta
 =======
 ok
 >>>>>>> Stashed changes
