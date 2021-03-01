@@ -1,0 +1,4 @@
+github
+vscode
+mingw64
+git bash
