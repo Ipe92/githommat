@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 tähän uutta tietoa
+Terveisiä GitHubista
 =======
 ok
 >>>>>>> Stashed changes
