@@ -4,8 +4,8 @@ Windows IP Configuration
 
 Ethernet adapter Ethernet:
 
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::a95d:c91a:a560:9f67%2
-   IPv4 Address. . . . . . . . . . . : 192.168.100.16
+   Connection-specific DNS Suffix  . : pkky.local
+   Link-local IPv6 Address . . . . . : fe80::ec93:2de3:92:648f%4
+   IPv4 Address. . . . . . . . . . . : 172.17.88.11
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.100.1
+   Default Gateway . . . . . . . . . : 172.17.88.1
