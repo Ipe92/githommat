@@ -1,6 +1,1 @@
-<<<<<<< Updated upstream
-tähän uutta tietoa
-Terveisiä paikalliselta tietokoneelta
-=======
-ok
->>>>>>> Stashed changes
+Terveisiä paikalliselta tietokoneelta ja GitHubista
